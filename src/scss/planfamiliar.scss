@@ -1,0 +1,51 @@
+@import 'config/config.scss';
+.img-24 {
+    height: 24px;
+    width: 24px;
+}
+
+.img-40 {
+    height: 40px;
+}
+
+.font-12 {
+    font-size: 12px;
+}
+
+.background-celeste {
+    background: $rgba-primary-0;
+    width: 100%;
+}
+
+.background-celeste-1.background-celeste-1 {
+    background: $rgba-primary-1;
+    width: 100%;
+}
+
+.padding-10 {
+    padding: 10px;
+}
+
+.ptitle-center {
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+    color: #fff;
+}
+
+.h1-title {
+    text-align: center;
+    padding: 15px;
+}
+
+.color-accent {
+    color: $color-accent;
+}
+
+.lista-midoc {
+    color: #fff;
+    margin-bottom: 10px;
+}
+.precio-height{
+    height: 30px;
+}

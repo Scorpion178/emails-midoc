@@ -1,5 +1,9 @@
 @import 'config/config.scss';
 
+.body-border{
+    border-top: 8px solid $rgba-primary-0;
+}
+
 .img-24{
     height: 24px;
     width: 24px;

@@ -4,12 +4,13 @@ $rgba-primary-2: rgba( 10,157,236,1);
 $rgba-primary-3: rgba(  2, 98,150,1);
 $rgba-primary-4: rgba(  1, 76,117,1);
 
-$colorPrimary   : rgba(  2,137,209,1);
+$colorPrimary   : $rgba-primary-0;
 $green          : #009688;
 $pink           : #D4145A;
 $yellow         : #FFA000;
 $gris           : #767676;
 $black          : #000000;
+$color-accent   : $yellow;
 
 /* Light theme Material Design */
 $light-status-bar     : #e0e0e0;
